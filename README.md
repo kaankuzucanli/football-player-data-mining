@@ -2,7 +2,7 @@
 
 Bu proje, futbolcu ve kaleci performans verileri üzerinde **veri ön işleme, veri temizleme, aykırı değer analizi ve makine öğrenmesi sınıflandırma** adımlarını içeren bir Veri Madenciliği dersi çalışmasıdır.
 
-> > **Not:** Bu repo, projenin arşivlenmiş Jupyter Notebook/PDF çıktıları kullanılarak yeniden düzenlenmiş portföy sürümüdür. Ham veri seti şu anda repoya dahil değildir. Kod akışı ve model sonuçları orijinal çalışma çıktılarından korunmuştur.
+>  **Not:** Bu repo, projenin arşivlenmiş Jupyter Notebook/PDF çıktıları kullanılarak yeniden düzenlenmiş portföy sürümüdür. Ham veri seti şu anda repoya dahil değildir. Kod akışı ve model sonuçları orijinal çalışma çıktılarından korunmuştur.
 
 ## Proje Özeti
 
@@ -147,7 +147,7 @@ notebooks/football_player_data_mining.ipynb
 
 dosyası açılabilir.
 
-> Ham veri seti mevcut olmadığı için repo şu anda uçtan uca yeniden çalıştırılamaz. Notebook'taki yöntemler ve belirtilen sonuçlar, orijinal proje çıktısından kurtarılmıştır.
+> Ham veri seti mevcut olmadığı için repo şu anda uçtan uca yeniden çalıştırılamaz. Notebook'taki yöntemler ve belirtilen sonuçlar, orijinal proje çıktılarından korunmuştur.
 
 ## Geliştirici
 
