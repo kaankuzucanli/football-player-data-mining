@@ -14,6 +14,6 @@ Veri seti daha sonra bulunursa şu konuma eklenmelidir:
 data/archive.zip
 ```
 
-## Neden veri seti yok?
+## Veri seti durumu
 
-Bilgisayara format atılması sonrasında orijinal proje dosyaları kaybolmuştur. Kodlar, işlem sırası ve model sonuçları daha önce oluşturulmuş Jupyter Notebook PDF çıktısından kurtarılmıştır.
+Ham veri seti bu repo içerisinde arşivlenmemiştir. Kod akışı, işlem sırası ve model sonuçları orijinal proje çıktılarından korunmuştur.
