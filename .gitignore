@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+.venv/
+venv/
+env/
+
+*.pkl
+preprocessed_for_ml.csv
+bn_ready.csv
+
+data/archive.zip
+data/*.csv
+
+.DS_Store
+Thumbs.db
