@@ -2,7 +2,7 @@
 
 Bu proje, futbolcu ve kaleci performans verileri üzerinde **veri ön işleme, veri temizleme, aykırı değer analizi ve makine öğrenmesi sınıflandırma** adımlarını içeren bir Veri Madenciliği dersi çalışmasıdır.
 
-> **Proje kurtarma notu:** Bilgisayara format atılması sonrasında orijinal proje dosyaları kaybolduğu için bu repo, daha önce alınmış Jupyter Notebook PDF çıktısı kullanılarak yeniden düzenlenmiştir. Ham veri seti şu anda repoya dahil değildir. Kod akışı ve aşağıda verilen model sonuçları, orijinal çalışma çıktısından alınmıştır.
+> > **Not:** Bu repo, projenin arşivlenmiş Jupyter Notebook/PDF çıktıları kullanılarak yeniden düzenlenmiş portföy sürümüdür. Ham veri seti şu anda repoya dahil değildir. Kod akışı ve model sonuçları orijinal çalışma çıktılarından korunmuştur.
 
 ## Proje Özeti
 
